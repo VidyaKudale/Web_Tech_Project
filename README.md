@@ -14,7 +14,8 @@
 
 # Current Functionalities
 
-* User, seller can register and sign in.
+* User can create account to buy product.
+* User can view product and see product description before actually buying.
 * Sellers can sell their products.
 * Customer can rate and review product.
 * Customer can add/ remove products  from cart.
@@ -44,8 +45,8 @@
 
 
 # Contributions
-This project was contributed by a group member who involving in this projects.
+This project was contributed by a my group members in this projects.
 
 1. Harshda Sable
-2. Vidya Kudale 
+2. Kajal Bankar
 3. Rutuja Pawar
